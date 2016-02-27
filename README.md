@@ -6,5 +6,13 @@ DISMATH_Project-0.0-R-97 created by R-97
 
 #Screenshots
 
-![Screenshot](ScreenshotNewProject.png)
+1. Creating app in MIT App Inventor 2 at http://ai2.appinventor.mit.edu/
+![Screenshot](2016-02-28_DISMATH_Project00_prtscrn001.JPG)
 
+2. Testing app on Android device via MIT AI2 Companion.
+![Screenshot](Screenshot_2016-02-28-01-25-27.png)
+
+3. Typing in the text field of the app on an Android device.
+![Screenshot](Screenshot_2016-02-28-01-35-24.png)
+
+=============================================
