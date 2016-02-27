@@ -6,4 +6,5 @@ DISMATH_Project-0.0-R-97 created by R-97
 
 #Screenshots
 
+![Screenshot](ScreenshotNewProject.png)
 
